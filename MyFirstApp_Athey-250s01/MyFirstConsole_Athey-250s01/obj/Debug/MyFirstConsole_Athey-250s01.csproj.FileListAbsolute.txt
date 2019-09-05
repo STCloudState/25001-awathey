@@ -1,0 +1,7 @@
+X:\Visual Studio 2017\Projects IS 250\MyFirstApp_Athey-250s01\MyFirstConsole_Athey-250s01\bin\Debug\MyFirstConsole_Athey-250s01.exe.config
+X:\Visual Studio 2017\Projects IS 250\MyFirstApp_Athey-250s01\MyFirstConsole_Athey-250s01\bin\Debug\MyFirstConsole_Athey-250s01.exe
+X:\Visual Studio 2017\Projects IS 250\MyFirstApp_Athey-250s01\MyFirstConsole_Athey-250s01\bin\Debug\MyFirstConsole_Athey-250s01.pdb
+X:\Visual Studio 2017\Projects IS 250\MyFirstApp_Athey-250s01\MyFirstConsole_Athey-250s01\obj\Debug\MyFirstConsole_Athey-250s01.csprojAssemblyReference.cache
+X:\Visual Studio 2017\Projects IS 250\MyFirstApp_Athey-250s01\MyFirstConsole_Athey-250s01\obj\Debug\MyFirstConsole_Athey-250s01.csproj.CoreCompileInputs.cache
+X:\Visual Studio 2017\Projects IS 250\MyFirstApp_Athey-250s01\MyFirstConsole_Athey-250s01\obj\Debug\MyFirstConsole_Athey-250s01.exe
+X:\Visual Studio 2017\Projects IS 250\MyFirstApp_Athey-250s01\MyFirstConsole_Athey-250s01\obj\Debug\MyFirstConsole_Athey-250s01.pdb
